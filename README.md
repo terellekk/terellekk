@@ -62,12 +62,10 @@ My name is Terelle Dokyi and I'm a software developer. I'm from United Kingdom, 
 
 <!-- icons without padding -->
 
-[1.2]: https://i.imgur.com/wWzX9uB.png "twitter icon without padding"
 [2.2]: https://i.imgur.com/9I6NRUm.png "github icon without padding"
 [3.2]: https://i.imgur.com/dgXzJ9j.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/o_oyewunmi
-[2]: https://github.com/oyewunmio
-[3]: https://www.linkedin.com/in/oyewunmio/
+[2]: https://github.com/terellekk
+[3]: https://www.linkedin.com/in//terelle-dokyi
