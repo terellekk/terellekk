@@ -2,13 +2,12 @@ My name is Terelle Dokyi and I'm a software developer. I'm from United Kingdom, 
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b> React.js, Django, Django REST, Linux Adminstration, Malware analysis, 
-- 🌱  <b>Getting better at:</b> Python, Javascript, Datastructure & Algorithms, Linux adminstration, Scripting, Automation
+- 🔭 <b>Currently working on:</b>  
+- 🌱  <b>Getting better at:</b> Python,
 - 🤔 <b>Exploring:</b> Web exploitation
-- ⚗️ <b>Experimenting on:</b> Robotic Process Automation, Google App script
-- 💬 <b>Ask me about:</b> Python, Javascript, C
+- ⚗️ <b>Experimenting on:</b> 
+- 💬 <b>Ask me about:</b> 
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="terelle.dokyi@hotmail.co.uk" target="_blank">terelle.dokyi@hotmail.co.uk</a>
-- 🤔: CRUD operations are boring...Event sourcing is best.
 
 ### My Stacks
 
