@@ -7,7 +7,7 @@ My name is Terelle Dokyi and I'm a software developer. I'm from United Kingdom, 
 - 🤔 <b>Exploring:</b> Web exploitation
 - ⚗️ <b>Experimenting on:</b> Robotic Process Automation, Google App script
 - 💬 <b>Ask me about:</b> Python, Javascript, C
-- 📫 <b>Reach me out:</b> Shoot a mail at <a href="oluwaseyioyewunmi99@gmail.com" target="_blank">oluwaseyioyewunmi99@gmail.com</a>
+- 📫 <b>Reach me out:</b> Shoot a mail at <a href="terelle.dokyi@hotmail.co.uk" target="_blank">terelle.dokyi@hotmail.co.uk</a>
 - 🤔: CRUD operations are boring...Event sourcing is best.
 
 ### My Stacks
