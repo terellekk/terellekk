@@ -1,4 +1,4 @@
-My name is Terelle Dokyi and I'm a software developer. I'm from United Kingdom, living in London and currently working as a Freelance Software Engineer You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Terelle Dokyi and I'm a software developer. I'm from United Kingdom, living in London and currently working as a Freelance Software Engineer You can find me on [![LinkedIn][3.2]][3].
 
 ### Things you should know
 
