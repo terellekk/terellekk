@@ -1,13 +1,10 @@
-My name is Terelle Dokyi and I'm a software developer. I'm from United Kingdom, living in London and currently working as a Freelance Software Engineer You can find me on [![LinkedIn][3.2]][3].
+My name is Terelle, DeMontofort University Alumni, currently working as an Service Desk II Analyst with aspirations to transition into a Software Engineering role. You can find me on [![LinkedIn][3.2]][3].
 
 ### Things you should know
 
-- 🔭 <b>Currently working on:</b>  
-- 🌱  <b>Getting better at:</b> Python,
-- 🤔 <b>Exploring:</b> Web exploitation
-- ⚗️ <b>Experimenting on:</b> 
-- 💬 <b>Ask me about:</b> 
-- 📫 <b>Reach me out:</b> Shoot a mail at <a href="terelle.dokyi@hotmail.co.uk" target="_blank">terelle.dokyi@hotmail.co.uk</a>
+- 🔭 <b>Currently Learning & Getting better at :</b> Python, Django, Flask, RestAPI development
+- 🤔 <b>Interests:</b> Front and Back End, web application development, CyberSecurity and Web Exploitation
+- 📫 <b>Reach me out:</b> Shoot a mail at <a href="terellekk@icloud.com" target="_blank">terellekk@icloud.com</a>
 
 ### My Stacks
 
