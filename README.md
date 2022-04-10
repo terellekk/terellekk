@@ -1,9 +1,9 @@
-My name is Terelle, DeMontofort University Alumni, currently working as an Service Desk II Analyst with aspirations to transition into a Software Engineering role. You can find me on [![LinkedIn][3.2]][3].
+My name is Terelle, DeMontofort University Alumni, currently working as an Service Desk Analyst with aspirations to transition into a Software Engineering role. You can find me on [![LinkedIn][3.2]][3].
 
 ### Things you should know
 
-- 🔭 <b>Currently Learning & Getting better at :</b> Python, Django, Flask, RestAPI development
-- 🤔 <b>Interests:</b> Front and Back End, web application development, CyberSecurity and Web Exploitation
+- 🔭 <b>Currently Learning & Getting better at :</b> Python 
+- 🤔 <b>Interests:</b> Full stack development, web application development, CyberSecurity and Web Exploitation
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="terellekk@icloud.com" target="_blank">terellekk@icloud.com</a>
 
 ### My Stacks
@@ -17,9 +17,8 @@ My name is Terelle, DeMontofort University Alumni, currently working as an Servi
     "others": ["TensorFlow",]
     "API": ["FastApi", "Django Rest"]
   },
-  "database": ["Mysql", "PostgreSQL", "MongoDB"],
-  "misc": ["Docker", "Redis", "Celery", "RabbitMQ", "Unit Testing", "CI/CD"],
-  "tools": ["Visual Studio Code", "Pycharm", "Vim"]
+  "database": ["Mysql", "MongoDB"],
+  "tools": ["Visual Studio Code"]
 }
 ```
 ## 🔧 Technologies & Tools
