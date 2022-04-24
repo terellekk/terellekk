@@ -2,15 +2,15 @@ My name is Terelle, DeMontofort University Alumni, currently working as an Servi
 
 ### Things you should know
 
-- 🔭 <b>Currently Learning & Getting better at :</b> Python 
-- 🤔 <b>Interests:</b> Full stack development, web application development, CyberSecurity and Web Exploitation
+- 🔭 <b>Currently Learning & Getting better at :</b> Python and Django 
+- 🤔 <b>Interests:</b> Full stack development, Web application development, CyberSecurity and Penetration Testing
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="terellekk@icloud.com" target="_blank">terellekk@icloud.com</a>
 
 ### My Stacks
 
 ```json
 {
-  "languages": ["Python", "Javascript", "C", "Bash"],
+  "languages": ["Python"],
   "frameworks/libraries": {
     "backend": ["Django", "Django Rest Framework", "NodeJs"],
     "frontend": ["React.js", "Boostrap", "Material UI", "Jquery", "HTML5", "CSS3"],
