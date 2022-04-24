@@ -12,12 +12,11 @@ My name is Terelle, DeMontofort University Alumni, currently working as an Servi
 {
   "languages": ["Python"],
   "frameworks/libraries": {
-    "backend": ["Django", "Django Rest Framework", "NodeJs"],
-    "frontend": ["React.js", "Boostrap", "Material UI", "Jquery", "HTML5", "CSS3"],
-    "others": ["TensorFlow",]
-    "API": ["FastApi", "Django Rest"]
+    "backend": ["Django (Pending)"],
+    "frontend": ["HTML5", "CSS3"],
+    "API": ["FastApi", "Django Rest (Pending)"]
   },
-  "database": ["Mysql", "MongoDB"],
+  "database": ["Mysql(Pending)"],
   "tools": ["Visual Studio Code"]
 }
 ```
