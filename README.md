@@ -45,7 +45,6 @@ My name is Terelle, DeMontofort University Alumni, currently working as an Servi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=terellekk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Terelle's GitHub Stats" />
 </a>
 
-[![Terelle's Coding stats](https://github-readme-stats.vercel.app/api/wakatime?username=terellekk&layout=compact)](https://github.com/terellekk/github-readme-stats)
 
 <!-- links to social media icons -->
 
