@@ -14,7 +14,7 @@ My name is Terelle, DeMontofort University Alumni, currently working as an Servi
   "frameworks/libraries": {
     "backend": ["flask (Pending)"],
     "frontend": ["HTML5", "CSS3"],
-    "API": ["FastApi", "Django Rest (Pending)"]
+    "API": ["Flask",(in progress)"]
   },
   "database": ["Mysql(Pending)"],
   "tools": ["Visual Studio Code"]
