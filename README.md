@@ -1,8 +1,8 @@
-My name is Terelle, DeMontofort University Alumni, currently working as an Service Desk Analyst with aspirations to transition into a Software Engineering role. You can find me on [![LinkedIn][3.2]][3].
+My name is Terelle, DeMontofort University Alumni, currently working as an Service Desk Analyst with aspirations to transition into a Software Developer / Engineering role. You can find me on [![LinkedIn][3.2]][3].
 
 ### Things you should know
 
-- 🔭 <b>Currently Learning & Getting better at :</b> Python and Django 
+- 🔭 <b>Currently Learning & Getting better at :</b> Python and Flask
 - 🤔 <b>Interests:</b> Full stack development, Web application development, CyberSecurity and Penetration Testing
 - 📫 <b>Reach me out:</b> Shoot a mail at <a href="terellekk@icloud.com" target="_blank">terellekk@icloud.com</a>
 
